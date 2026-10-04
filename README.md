@@ -15,7 +15,7 @@ I started with hands-on Docker command practice but gaps in Dockerfiles, Compose
 
 ## Architecture
 
-![Flask, Redis, NGINX, and Docker architecture](docs/images/architecture.png)
+![](docker-architecture-v2.png) 
 
 ### Request flow
 
